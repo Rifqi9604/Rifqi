@@ -15,5 +15,11 @@
 }
 
 .col-md-6{
-    margin-top: -250px;   
+    margin-top: -250px
+}
+
+#input{
+    margin-right: 45%;
+    margin-top: -375px;
+    padding-left: 10%;
 }
