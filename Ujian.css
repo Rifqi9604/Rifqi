@@ -1,0 +1,19 @@
+.nav-link{
+    text-transform: uppercase;
+    color: black;
+}
+.nav-link:hover{
+    background-color: lightsalmon ;
+}
+
+.card-header{
+    height: 75px;
+}
+
+.col-md-6{
+    margin-left: 500px
+}
+
+.col-md-6{
+    margin-top: -250px;   
+}
